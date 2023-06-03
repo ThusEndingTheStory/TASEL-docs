@@ -3,6 +3,29 @@ Documentation
 
 **TASEL** is small enough that the docs fit on one page!
 
+----
+
+Note: When there's text inside of angle brackets (<like this>) inside of a code snippet, (Eg, ``-> <var name>``) it means "replace this with what the text is (Eg, ``-> <var name>`` = ``-> varNameGoesHere``)
+
+----
+
+When you type a word that is a string ("anything here" or 'anything here') or an integer or a float (decimal) it pushes it on to the stack. If it's a variable, it pushes the value of the variable on to the stack.
+
+Variables
+----
+
+``-> <var name>``
+----
+``->`` assigns the top of the stack to the given variable.
+
+``inc:<var name>``
+----
+Increments the given variable by one.
+
+``dec:<var name>``
+----
+Decrements the given variable by one.
+
 Stack operations
 ----
 
@@ -41,6 +64,25 @@ Stack operations
 ``cs`` clears the contents of the stack.
 
 (n1 n2 n3 -- )
+
+Arithmatic
+----
+
+``+``
+----
+Adds (or combines, in the case of a string) the top two items on the stack, consuming them and pushing the result.
+
+``-``
+----
+Subtracts the top two items on the stack, consuming them and pushing the result.
+
+``*``
+----
+Multiplies the top two items on the stack, consuming them and pushing the result.
+
+``/``
+----
+Divides the top two items on the stack, consuming them and pushing the result.
 
 I/O Operations
 ----
