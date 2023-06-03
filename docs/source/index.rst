@@ -11,7 +11,7 @@ The beauty of stack-based languages lies in their simplicity and conciseness. Th
 
 .. note::
 
-   **TASEL** is currently in Beta phase and under development, but it's available on `Replit`_
+   **TASEL** is currently in Beta phase and under development, but it's available on `Replit`_.
 
 Contents
 --------
