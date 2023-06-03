@@ -5,7 +5,7 @@ Documentation
 
 ----
 
-Note: When there's text inside of angle brackets (<like this>) inside of a code snippet, (Eg, ``-> <var name>``) it means "replace this with what the text is (Eg, ``-> <var name>`` = ``-> varNameGoesHere``)
+Note: When there's text inside of angle brackets (<like this>) inside of a code snippet, (Eg, ``-> <var name>``) it means "replace this with what the text is" (Eg, ``-> <var name>`` = ``-> varNameGoesHere``)
 
 ----
 
