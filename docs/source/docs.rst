@@ -7,4 +7,4 @@ Documentation
 Stack operations
 ----
 
-``dup`` drop swap over rot chr
+`dup` drop swap over rot chr
