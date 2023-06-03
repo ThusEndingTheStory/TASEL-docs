@@ -13,10 +13,9 @@ The beauty of stack-based languages lies in their simplicity and conciseness. Th
 
    **TASEL** is currently in Beta phase and under development, but it's available on Replit.
 
-Contents
+> Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   instalation
