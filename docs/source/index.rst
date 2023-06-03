@@ -9,12 +9,9 @@ To perform computations, you push the input values onto the stack, then use oper
 
 The beauty of stack-based languages lies in their simplicity and conciseness. They tend to have a compact syntax since they don't require complex control structures, and often skip the parsing process completely. However, they do require a different mindset and understanding of how the stack operates. By leveraging the stack's properties effectively, you can create powerful and efficient programs.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
-   This project is under active development.
+   **TASEL** is currently in Beta phase and under development, but it's available on Replit.
 
 Contents
 --------
