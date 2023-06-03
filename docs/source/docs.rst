@@ -7,4 +7,12 @@ Documentation
 Stack operations
 ----
 
-`dup` drop swap over rot chr
+``dup``
+``dup`` duplicates the top item of the stack
+(n -- n n)
+
+``drop``
+``swap``
+``over``
+``rot``
+``chr``
