@@ -20,5 +20,6 @@ Contents
 
    docs
    instalation
+   examples
    
 .. _Replit: https://replit.com/@ThusEndingTheStory/TASEL?v=1
