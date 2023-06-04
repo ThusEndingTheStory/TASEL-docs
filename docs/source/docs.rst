@@ -151,3 +151,7 @@ Subroutines
 ``sub:<sub name>``
 ----
 Defines a subroutine with the given name. Everything until ``--`` is the body of the subroutine. Eg, ``sub:hello    "Hello, world!" outl    --``. Recursion is not supported, and labels/gotos inside and outside of the subroutine cannot interact.
+
+``call:<sub name>``
+----
+Calls the given sub
