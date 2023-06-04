@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TASEL'
+copyright = '2023, ThusEndingTheStory'
+author = 'ThusEndingTheStory'
 
 release = '0.1'
-version = '0.1.0'
+version = 'Beta 1.0.1'
 
 # -- General configuration
 
