@@ -3,7 +3,7 @@ Examples
 
 Subroutines
 ----
-.. code-block:: sql
+.. code-block:: bash
     
     sub:greet
       -> name # Assign the top of the stack to name
@@ -14,7 +14,7 @@ Subroutines
     
 Goto/labels
 ----
-.. code-block:: sql
+.. code-block:: bash
     
     # Print 'Hello!' forever
     label:again # Create a new label called 'again'
@@ -23,6 +23,6 @@ Goto/labels
 
 .. _
 .. ----
-.. .. code-block:: sql
+.. .. code-block:: bash
     
     _
