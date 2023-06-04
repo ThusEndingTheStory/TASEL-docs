@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    docs
-   instalation
    examples
+   installation
    
 .. _Replit: https://replit.com/@ThusEndingTheStory/TASEL?v=1
