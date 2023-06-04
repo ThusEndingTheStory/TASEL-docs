@@ -11,6 +11,11 @@ Note: When there's text inside of angle brackets (<like this>) inside of a code 
 
 When you type a word that is a string ("anything here" or 'anything here') or an integer or a float (decimal) it pushes it on to the stack. If it's a variable, it pushes the value of the variable on to the stack.
 
+Comments
+----
+Comments start with ``#`` (hash)
+Eg. ``# Hello, world!``
+
 Variables
 ----
 
