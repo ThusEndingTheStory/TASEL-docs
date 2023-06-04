@@ -21,8 +21,8 @@ Goto/labels
     "Hello!" outl # Print 'Hello!'
     goto:again # Jump to the label 'again'
 
-_
-----
-.. code-block:: sql
+.. _
+.. ----
+.. .. code-block:: sql
     
     _
